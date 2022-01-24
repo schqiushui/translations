@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Gestures: Touchscreen gestures -->
+    <string name="touchscreen_gesture_settings_title">Жесты сенсорного экрана</string>
+    <string name="touchscreen_gesture_settings_summary">Выполняйте различные жесты на сенсорном экране для быстрых действий</string>
+
+    <string name="touchscreen_gestures_haptic_feedback_title">Тактильная отдача</string>
+
+    <string name="touchscreen_gesture_two_finger_down_swipe_title">Проведите вниз двумя пальцами</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_title">Проведите вверх одним пальцем</string>
+    <string name="touchscreen_gesture_one_finger_up_swipe_home_title">Проведите пальцем вверх от кнопки "Домой</string>
+    <string name="touchscreen_gesture_one_finger_down_swipe_title">Проведите вниз одним пальцем</string>
+    <string name="touchscreen_gesture_one_finger_left_swipe_title">Проведите одним пальцем влево</string>
+    <string name="touchscreen_gesture_one_finger_right_swipe_title">Проведите вправо одним пальцем</string>
+    <string name="touchscreen_gesture_up_arrow_title">Нарисуйте \"Λ\"</string>
+    <string name="touchscreen_gesture_down_arrow_title">Нарисуйте \"V\"</string>
+    <string name="touchscreen_gesture_left_arrow_title">Нарисуйте \"&lt;\"</string>
+    <string name="touchscreen_gesture_right_arrow_title">Нарисуйте \"&gt;\"</string>
+    <string name="touchscreen_gesture_letter_c_title">Нарисуйте букву \"C\"</string>
+    <string name="touchscreen_gesture_letter_e_title">Нарисуйте букву \"e\"</string>
+    <string name="touchscreen_gesture_letter_o_title">Нарисуйте букву \"O\"</string>
+    <string name="touchscreen_gesture_letter_m_title">Нарисуйте букву \"M\"</string>
+    <string name="touchscreen_gesture_letter_s_title">Нарисуйте букву \"S\"</string>
+    <string name="touchscreen_gesture_letter_v_title">Нарисуйте букву \"V\"</string>
+    <string name="touchscreen_gesture_letter_w_title">Нарисуйте букву \"W\"</string>
+    <string name="touchscreen_gesture_letter_z_title">Нарисуйте букву \"Z\"</string>
+    <string name="touchscreen_gesture_single_tap_title">Одиночное касание</string>
+    <string name="touchscreen_gesture_double_tap_title">Двойное касание</string>
+    <string name="touchscreen_gesture_up_swipe">Провести вверх</string>
+    <string name="touchscreen_gesture_left_swipe">Провести влево</string>
+    <string name="touchscreen_gesture_right_swipe">Провести вправо</string>
+    <string name="touchscreen_gesture_down_swipe">Провести вниз</string>
+
+    <!-- Gesture: Stylus gestures -->
+    <string name="touchscreen_gesture_swipe_up_stylus_title">Проведите вверх стилусом</string>
+    <string name="touchscreen_gesture_swipe_down_stylus_title">Проведите вниз стилусом</string>
+    <string name="touchscreen_gesture_swipe_left_stylus_title">Проведите влево стилусом</string>
+    <string name="touchscreen_gesture_swipe_right_stylus_title">Проведите вправо стилусом</string>
+    <string name="touchscreen_gesture_long_press_stylus_title">Длительное нажатие стилусом</string>
+
+    <string name="touchscreen_gesture_action_dialog_title">Действие жеста</string>
+    <string name="touchscreen_gesture_action_do_nothing">Ничего не делать</string>
+    <string name="touchscreen_gesture_action_flashlight">Переключить фонарик</string>
+    <string name="touchscreen_gesture_action_camera">Открыть камеру</string>
+    <string name="touchscreen_gesture_action_browser">Открыть браузер</string>
+    <string name="touchscreen_gesture_action_dialer">Открыть номеронабиратель</string>
+    <string name="touchscreen_gesture_action_email">Просмотр почты</string>
+    <string name="touchscreen_gesture_action_messages">Просмотр сообщений</string>
+    <string name="touchscreen_gesture_action_play_pause_music">Воспроизведение/пауза музыки</string>
+    <string name="touchscreen_gesture_action_previous_track">Воспроизведение предыдущего музыкального трека</string>
+    <string name="touchscreen_gesture_action_next_track">Воспроизведение следующего музыкального трека</string>
+    <string name="touchscreen_gesture_action_volume_down">Снижение громкости медиа</string>
+    <string name="touchscreen_gesture_action_volume_up">Повышение громкости медиа</string>
+    <string name="touchscreen_gesture_action_ambient_display">Показать активный экран</string>
+    <string name="touchscreen_gesture_action_wake_device">Пробуждение устройства</string>
+</resources>

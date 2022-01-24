@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- App name -->
+    <string name="app_name">Обновление системы</string>
+
+    <!-- Menu -->
+    <string name="settings">Настройки</string>
+    <string name="reset">Сброс</string>
+
+    <!-- Build info -->
+    <string name="refresh">Проверить</string>
+    <string name="build_info_title">Информация о текущей сборке</string>
+    <string name="device">Устройство</string>
+    <string name="version">Версия</string>
+    <string name="date">Дата</string>
+    <string name="file">Файл</string>
+    <string name="md5">MD5</string>
+    <string name="hit_refresh">Нажмите кнопку ПРОВЕРИТЬ!</string>
+    <string name="new_update">Новое обновление</string>
+    <string name="current_is_latest">Текущая сборка - самая последняя!</string>
+    <string name="fetching_build_status_text">Получение информации о сборке с github...</string>
+    <string name="unable_to_fetch_details">Не удалось получить, пожалуйста, проверьте сеть или повторите попытку позже</string>
+    <string name="notify_refresh_failed">Автоматическая проверка обновления не удалась</string>
+    <string name="notify_refresh_failed_desc">Пожалуйста, проверьте наличие обновлений вручную</string>
+    <string name="notify_new_update">Обнаружено обновление системы</string>
+    <string name="notify_new_update_desc">Установите обновление для более удобной работы</string>
+    <string name="changelog">Список изменений</string>
+    <string name="fetching_changelog">Получение списка изменений...</string>
+    <string name="changelog_unavailable">Список изменений в настоящее время недоступен</string>
+    <string name="unable_to_fetch_changelog">Не удалось получить список изменений</string>
+
+    <!-- Local Upgrade -->
+    <string name="local">Локально</string>
+    <string name="confirm_selection">Подтвердить выбор</string>
+
+    <!-- Download -->
+    <string name="download">Загрузить</string>
+    <string name="starting_download">Начало загрузки</string>
+    <string name="pause">Пауза</string>
+    <string name="cancel">Отмена</string>
+    <string name="resume">Возобновить</string>
+    <string name="waiting">Ожидание...</string>
+    <string name="downloading">Загрузка</string>
+    <string name="download_paused">Загрузка приостановлена</string>
+    <string name="download_failed">Загрузка не удалась</string>
+    <string name="download_finished">Загрузка завершена</string>
+    <string name="download_cancelled">Загрузка отменена</string>
+    <string name="invalid_url">URL-адрес, разобранный из json, недействителен</string>
+    <string name="click_to_update">Нажмите здесь, чтобы продолжить установку обновления</string>
+    <string name="copy_failed">Копирование в "Загрузки" не удалось</string>
+    <string name="md5_check_failed">Проверка MD5 не прошла, файл поврежден</string>
+
+    <!-- Updater -->
+    <string name="update">Обновить</string>
+    <string name="applying_update">Применение обновления</string>
+    <string name="processing_payload">Обработка payload</string>
+    <string name="update_paused">бновление приостановлено</string>
+    <string name="update_finished">Обновление завершено</string>
+    <string name="update_failed">Не удалось применить обновление</string>
+    <string name="invalid_zip_file">Недействительный zip-файл</string>
+    <string name="step">Шаг</string>
+    <string name="reboot">Перезагрузка</string>
+    <string name="magisk">Magisk</string>
+    <string name="sure_to_reboot">Вы уверены, что хотите перезагрузиться?</string>
+    <string name="post_update_tips">
+        Обновление завершено, следующая перезагрузка будет на обновленный слот.\n
+        Сейчас самое время установить magisk в новый слот.\n
+        Если у вас не установлен magisk или вы не беспокоитесь о потере magisk после обновления, нажмите кнопку перезагрузки.
+    </string>
+    <string name="metadata_verification_failed">Проверка метаданных не удалась</string>
+    <string name="payload_transfer_error_retry">Ошибка передачи payload, пожалуйста, повторите попытку</string>
+    <string name="attempting_downgrade">Попытка понижения версии системы отклонена</string>
+    <string name="ota_transfer_error">Ошибка передачи OTA, повторите попытку</string>
+    <string name="rootfs_verification_failed">Новая ошибка проверки rootfs, вы можете повторить попытку</string>
+    <string name="copying">Копирование файла во внутренний каталог</string>
+    <string name="do_not_close">Пожалуйста, не закрывайте приложение, пока все не закончится.</string>
+    <string name="magisk_not_installed">Magisk не установлен или скрыт</string>
+    <string name="update_finished_notif_desc">Нажмите, чтобы завершить обновление</string>
+
+    <!-- Updater Settings -->
+    <string name="updater_settings_title">Настройки обновлений</string>
+    <string name="refresh_interval_settings_title">Интервал проверки обновления</string>
+    <string name="days">дней</string>
+
+    <!-- Low battery message -->
+    <string name="battery_low">Низкий уровень заряда аккумулятора</string>
+    <string name="plug_in_charger">Подключите зарядное устройство, чтобы продолжить</string>
+</resources>
