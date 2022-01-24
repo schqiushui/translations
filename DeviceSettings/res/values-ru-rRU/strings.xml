@@ -21,6 +21,11 @@
     <string name="slider_title">Ползунок управления звуком</string>
     <string name="mute_media_title">Отключить громкость мультимедиа в беззвучном режиме</string>
     <string name="mute_media_summary">Это будет действовать только для динамика</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">По умолчанию</string>
+    <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nДлительное нажатие для установки</string>
+    <string name="custom_seekbar_default_value_is_set">Значение по умолчанию установлено</string>
     <!-- Display Modes -->
     <string name="display_title">Режимы отображения</string>
     <string name="hbm_mode_summary">Мгновенно включает максимальную яркость дисплея</string>
@@ -42,6 +47,7 @@
     <string name="doze_panel_title">Doze</string>
     <string name="ambient_display_gestures_title">Жесты активного дисплея</string>
     <string name="ambient_display_gestures_summary">Дополнительные жесты для включения экрана</string>
+    <string name="ambient_enable">Использовать активный дисплей</string>
     <string name="doze_settings_help_title">Справка</string>
     <string name="doze_settings_help_text">Эти функции используют сенсоры для запуска пульсации уведомлений. Выбранный датчик включён только тогда, когда устройство получает уведомление, это помогает уменьшить потребление аккумулятора. Существует также опция включения датчика, как только экран выключится, это приведет к большему потреблению заряда аккумулятора.</string>
     <string name="dialog_ok">ОК</string>
@@ -68,22 +74,26 @@
     <string name="fps_info_color_blue">Синий</string>
     <string name="fps_info_color_yellow">Желтый</string>
     <string name="fps_info_color_black">Чернить</string>
-    <string name="fps_info_color_accent">Follow System</string>
+    <string name="fps_info_color_accent">Следование системе</string>
     <string name="fps_info_position_title">Положение наложения</string>
-    <string name="fps_info_position_top_left">Top left</string>
-    <string name="fps_info_position_top_center">Top center</string>
-    <string name="fps_info_position_top_right">Top right</string>
-    <string name="fps_info_position_bottom_left">Bottom left</string>
-    <string name="fps_info_position_bottom_center">Bottom center</string>
-    <string name="fps_info_position_bottom_right">Bottom right</string>
+    <string name="fps_info_position_top_left">Сверху слева</string>
+    <string name="fps_info_position_top_center">Сверху посередине</string>
+    <string name="fps_info_position_top_right">Справа сверху</string>
+    <string name="fps_info_position_bottom_left">Снизу слева</string>
+    <string name="fps_info_position_bottom_center">Снизу посередине</string>
+    <string name="fps_info_position_bottom_right">Снизу справа</string>
     <string name="fps_info_text_size_title">Размер текста</string>
     <!-- Touchpanel -->
-    <string name="touchpanel_title">Touchpanel</string>
+    <string name="touchpanel_title">Сенсорная панель</string>
     <string name="game_mode_title">Игровой режим</string>
     <string name="game_mode_summary">Увеличьте частоту дискретизации сенсорного экрана для всех приложений</string>
     <string name="game_mode_warning">Увеличивает потребление энергии</string>
+     <string name="edge_touch_title">Неограниченное касание краев</string>
+    <string name="edge_touch_summary">Улучшение работы с мультитач в играх</string>
+    <string name="edge_touch_warning">Увеличивает вероятность случайного прикосновения</string>
     <!-- Unsupported feature -->
     <string name="unsupported_feature">Эта функция недоступна в текущем ядре</string>
+    <string name="unsupported_device">Эта функция недоступна на текущем устройстве</string>
     <!-- Vibration Strength -->
     <string name="category_vibrator">Вибрация</string>
     <string name="vib_strength_title_head">Сила</string>
