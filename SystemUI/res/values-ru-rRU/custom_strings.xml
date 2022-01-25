@@ -50,9 +50,6 @@
     <!-- Statusbar tuner -->
     <string name="statusbar_items_title">Значки панели состояния</string>
     
-    <!-- Name of the VPN status bar icon. -->
-    <string name="status_bar_vpn">VPN</string>
-    
     <!-- Screenshot QS tile -->
     <string name="quick_settings_screenshot_label">Снимок экрана</string>
     <string name="quick_settings_region_screenshot_label">Частичный снимок экрана</string>
@@ -161,8 +158,6 @@
     <!-- Custom QS tiles -->
     <!-- PowerShare QS tile -->
     <string name="quick_settings_powershare_label">Wireless PowerShare</string>
-    <string name="quick_settings_powershare_off_powersave_label">Wireless PowerShare выключен\nЭнергосбережение</string>
-    <string name="quick_settings_powershare_off_low_battery_label">Wireless PowerShare выключен\nБатарея слишком разряжена</string>
     <string name="quick_settings_powershare_enabled_label">Wireless PowerShare включен</string>
 
     <!-- Gaming mode -->
