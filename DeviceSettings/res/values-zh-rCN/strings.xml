@@ -17,9 +17,9 @@
 
     <!-- Alert Slider -->
     <string name="slider_title">三段式开关</string>
-    <string name="mute_media_title">媒体音量归零</string>
-    <string name="mute_media_summary">调到静音模式后将媒体音量设为0</string>
-    <string name="mute_media_warning">仅在声音外放时生效</string>
+    <string name="mute_media_title">静音媒体音量</string>
+    <string name="mute_media_summary">切换到静音模式时，将媒体音量设为静音</string>
+    <string name="mute_media_warning">此功能仅对扬声器有效</string>
 
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">值: <xliff:g id="v">%s</xliff:g></string>
@@ -60,7 +60,7 @@
     <string name="dialog_ok">好的</string>
     <string name="switch_bar_off">关闭</string>
     <string name="switch_bar_on">开启</string>
-    <string name="ambient_display_title">主动显示</string>
+    <string name="ambient_display_title">环境显示</string>
     <string name="ambient_display_always_on_title">始终显示</string>
     <string name="ambient_display_always_on_summary">显示时间、通知图标和其他信息。这会增加电池使用量。</string>
     <string name="pickup_sensor_title">拾取传感器</string>
@@ -70,7 +70,7 @@
     <string name="pick_up_wake_gesture_summary">拿起时唤醒设备</string>
     <string name="proximity_sensor_title">距离传感器</string>
     <string name="pocket_gesture_title">口袋</string>
-    <string name="pocket_gesture_summary">从口袋中移除时显示通知</string>
+    <string name="pocket_gesture_summary">从口袋中移出时显示通知</string>
 
     <!-- FPS Info -->
     <string name="fps_title">FPS 帧率显示</string>
@@ -105,7 +105,7 @@
     <string name="unsupported_feature">当前内核不支持该功能</string>
     <string name="unsupported_device">当前设备不支持该功能</string>
 
-    <!-- Vibration Slider -->
+    <!-- Vibration Strength -->
     <string name="category_vibrator">振动</string>
     <string name="vib_strength_title_head">强度</string>
     <string name="vib_strength_summary_head">自定义振动强度</string>
