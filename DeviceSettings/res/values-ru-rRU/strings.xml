@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Device Settings -->
     <string name="device_title">Настройки OnePlus</string>
     <string name="device_summary">Изменение настроек устройства OnePlus</string>

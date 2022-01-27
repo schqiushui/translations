@@ -57,8 +57,13 @@
     <string name="gaming_mode_auto_answer_call_title">Answering calls automatically</string>
     <string name="gaming_mode_auto_answer_call_summary">Answer calls automatically in the game and hands free when no headphones connected</string>
 
-    <string name="gaming_mode_prevent_accidental_touch">Prevent accidental touch</string>
+    <string name="gaming_mode_touchpanel">Touchpanel</string>
     <string name="gaming_mode_disable_gesture_title">Disable swipe gestures</string>
+    <string name="gaming_mode_disable_gesture_summary">Do not allow triggering swipe gestures in games</string>
+    <string name="gaming_mode_high_touch_sample_title">High touch sample</string>
+    <string name="gaming_mode_high_touch_sample_summary">Boost touch sampling rate for games</string>
+    <string name="gaming_mode_edge_touch_title">Unlimit edge touch</string>
+    <string name="gaming_mode_edge_touch_summary">Do not limit edge side touch in games</string>
 
     <string name="gaming_mode_apps_title">Game list</string>
     <string name="gaming_mode_apps_summary">Select apps to launch gaming mode when you open them</string>
@@ -79,4 +84,5 @@
     <string name="performance_level">Performance level</string>
     <string name="gaming_mode_miscellaneous">Miscellaneous</string>
     <string name="gaming_mode_disable_adb_title">Disable USB debugging</string>
+    <string name="gaming_mode_disable_adb_summary">Prevent USB debug detection from some games</string>
 </resources>

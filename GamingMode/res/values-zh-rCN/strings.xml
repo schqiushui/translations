@@ -56,8 +56,13 @@
     <string name="gaming_mode_auto_answer_call_title">自动接听</string>
     <string name="gaming_mode_auto_answer_call_summary">在游戏模式时自动接听电话，无耳机连接时将免提</string>
 
-    <string name="gaming_mode_prevent_accidental_touch">防误触</string>
+    <string name="gaming_mode_touchpanel">触摸屏</string>
     <string name="gaming_mode_disable_gesture_title">禁用滑动手势</string>
+    <string name="gaming_mode_disable_gesture_summary">在游戏中不允许触发滑动手势</string>
+    <string name="gaming_mode_high_touch_sample_title">高触控采样率</string>
+    <string name="gaming_mode_high_touch_sample_summary">在游戏中使用 240 Hz 触控采样率</string>
+    <string name="gaming_mode_edge_touch_title">解除曲面触控限制</string>
+    <string name="gaming_mode_edge_touch_summary">在游戏中不限制屏幕边缘的触控</string>
 
     <string name="gaming_mode_apps_title">游戏列表</string>
     <string name="gaming_mode_apps_summary">在这些应用打开时将启用游戏模式</string>
@@ -78,4 +83,5 @@
     <string name="performance_level">性能等级</string>
     <string name="gaming_mode_miscellaneous">杂项</string>
     <string name="gaming_mode_disable_adb_title">关闭 USB 调试</string>
+    <string name="gaming_mode_disable_adb_summary">防止一些游戏检测 USB 调试开关</string>
 </resources>
