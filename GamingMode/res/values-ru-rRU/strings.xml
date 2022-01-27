@@ -57,8 +57,13 @@
     <string name="gaming_mode_auto_answer_call_title">Автоматический ответ на звонки</string>
     <string name="gaming_mode_auto_answer_call_summary">Отвечать на звонки автоматически в игре и в режиме громкой связи, когда наушники не подключены</string>
 
-    <string name="gaming_mode_prevent_accidental_touch">Предотвращение случайных прикосновений</string>
+    <string name="gaming_mode_touchpanel">Сенсорная панель</string>
     <string name="gaming_mode_disable_gesture_title">Отключение жестов пролистывания</string>
+     <string name="gaming_mode_disable_gesture_summary">Не разрешать срабатывание жестов пролистывания в играх</string>
+    <string name="gaming_mode_high_touch_sample_title">Пример высокой чувствительности</string>
+    <string name="gaming_mode_high_touch_sample_summary">Повышение частоты сенсорного ввода для игр</string>
+    <string name="gaming_mode_edge_touch_title">Неограниченное касание краев</string>
+    <string name="gaming_mode_edge_touch_summary">Не ограничивать касание краев в играх</string>
 
     <string name="gaming_mode_apps_title">Список игр</string>
     <string name="gaming_mode_apps_summary">Выберите приложения, при открытии которых будет запускаться игровой режим</string>
@@ -79,4 +84,5 @@
     <string name="performance_level">Уровень производительности</string>
     <string name="gaming_mode_miscellaneous">Прочее</string>
     <string name="gaming_mode_disable_adb_title">Отключить отладку USB</string>
+    <string name="gaming_mode_disable_adb_summary">Предотвращение обнаружения отладки USB в некоторых играх</string>
 </resources>
