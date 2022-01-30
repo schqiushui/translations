@@ -223,8 +223,6 @@
     <string name="qs_multi_users_summary">Display multi users icon in the QS footer</string>
     <string name="qs_power_menu_title">Power menu icon</string>
     <string name="qs_power_menu_summary">Display power menu icon in the QS footer</string>
-    <string name="qs_auto_brightness_title">Auto brightness icon</string>
-    <string name="qs_auto_brightness_summary">Display toggle for adaptive brightness in the QS footer</string>
     <string name="qs_running_services_title">Running services icon</string>
     <string name="qs_running_services_summary">Display running services icon in the QS footer</string>
 
@@ -538,4 +536,32 @@
 
     <!-- System Update -->
     <string name="system_update_title">System update</string>
+
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">Allow network access</string>
+    <string name="data_usage_app_restrict_all_summary">Enable network usage</string>
+    <string name="data_usage_app_restrict_mobile">Mobile data</string>
+    <string name="data_usage_app_restrict_mobile_summary">Enable usage of mobile data</string>
+    <string name="data_usage_app_restrict_vpn">VPN data</string>
+    <string name="data_usage_app_restrict_vpn_summary">Enable usage of VPN data</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
+    <string name="data_usage_app_restrict_wifi_summary">Enable usage of Wi\u2011Fi data</string>
+
+    <!-- Hotspot lineage extras -->
+    <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+
+    <!-- QS Brightness -->
+    <string name="qs_brightness_slider_title">Brightness slider</string>
+    <string name="qs_brightness_slider_summary">Customize brightness slider in QS panel</string>
+    <string name="qs_show_brightness_title">QS panel</string>
+    <string name="qs_show_brightness_summary">Show brightness slider in QS panel</string>
+    <string name="qqs_show_brightness_title">Quick QS panel</string>
+    <string name="qqs_show_brightness_summary">Show brightness slider in QQS panel</string>
+    <string name="qs_brightness_position_position_title">Move to bottom</string>
+    <string name="qs_brightness_position_position_summary">Show brightness slider in the bottom of QS panel</string>
+    <string name="qs_show_auto_brightness_button_title">Auto brightness button</string>
+    <string name="qs_show_auto_brightness_button_hide">Hide</string>
+    <string name="qs_show_auto_brightness_button_slider">Show near slider</string>
+    <string name="qs_show_auto_brightness_button_footer">Show in footer</string>
 </resources>

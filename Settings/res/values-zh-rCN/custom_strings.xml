@@ -192,8 +192,6 @@
     <string name="qs_multi_users_summary">在快捷设置面板底部显示多用户按钮</string>
     <string name="qs_power_menu_title">电源菜单按钮</string>
     <string name="qs_power_menu_summary">在快捷设置面板底部显示电源菜单按钮</string>
-    <string name="qs_auto_brightness_title">自动亮度按钮</string>
-    <string name="qs_auto_brightness_summary">在快捷设置面板底部显示自动亮度按钮</string>
     <string name="qs_running_services_title">正在运行的服务按钮</string>
     <string name="qs_running_services_summary">在快捷设置面板底部显示正在运行的服务按钮</string>
     <!-- Monet Engine -->
@@ -462,4 +460,29 @@
     <string name="application_icon">应用图标</string>
     <!-- System Update -->
     <string name="system_update_title">系统更新</string>
+    <!-- Per-app data restrictions -->
+    <string name="data_usage_app_restrict_all">允许访问网络</string>
+    <string name="data_usage_app_restrict_all_summary">启用网络使用统计</string>
+    <string name="data_usage_app_restrict_mobile">移动数据</string>
+    <string name="data_usage_app_restrict_mobile_summary">允许使用移动数据</string>
+    <string name="data_usage_app_restrict_vpn">VPN 数据</string>
+    <string name="data_usage_app_restrict_vpn_summary">启用 VPN 的数据使用统计</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi 数据</string>
+    <string name="data_usage_app_restrict_wifi_summary">启用 Wi\u2011Fi 流量使用统计</string>
+    <!-- Hotspot lineage extras -->
+    <string name="tethering_allow_vpn_upstreams_title">允许客户端使用 VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">允许热点客户端使用此设备\u2019的 VPN 连接到上游连接</string>
+    <!-- QS Brightness -->
+    <string name="qs_brightness_slider_title">亮度条滑块</string>
+    <string name="qs_brightness_slider_summary">自定义快捷设置面板的亮度条滑块</string>
+    <string name="qs_show_brightness_title">快捷设置面板</string>
+    <string name="qs_show_brightness_summary">在快捷设置面板显示亮度条滑块</string>
+    <string name="qqs_show_brightness_title">初级展开面板</string>
+    <string name="qqs_show_brightness_summary">在初级展开面板显示亮度条滑块</string>
+    <string name="qs_brightness_position_position_title">移至底部</string>
+    <string name="qs_brightness_position_position_summary">在快捷设置面板底部显示亮度条滑块</string>
+    <string name="qs_show_auto_brightness_button_title">自动亮度按钮</string>
+    <string name="qs_show_auto_brightness_button_hide">不显示</string>
+    <string name="qs_show_auto_brightness_button_slider">在滑块旁显示</string>
+    <string name="qs_show_auto_brightness_button_footer">在页脚显示</string>
 </resources>

@@ -138,4 +138,6 @@
     <!-- Gaming mode -->
     <string name="gaming_mode_not_enabled">未在设置中启用游戏模式！</string>
     <string name="quick_settings_gaming_mode_label">游戏模式</string>
+    <!-- Name of the ims status bar icon. -->
+    <string name="status_bar_ims">VoLTE/VoWiFi</string>
 </resources>
